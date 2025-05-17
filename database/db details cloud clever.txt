@@ -1,0 +1,5 @@
+Host  - bgy7tbrdpophfni32bdf-mysql.services.clever-cloud.com
+Database name - bgy7tbrdpophfni32bdf
+User  - uagloaafsthwt27n
+password - eDIQEzgXSXC5BlNbAUyo
+port  - 3306
