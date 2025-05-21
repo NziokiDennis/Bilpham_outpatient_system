@@ -23,6 +23,10 @@ INSERT INTO `admins` VALUES (1,'admin','$2y$10$wGB4OnmVgSKYAAiWW4FZP.2JAB70SEN.Q
 /*!40000 ALTER TABLE `admins` ENABLE KEYS */;
 UNLOCK TABLES;
 
+INSERT INTO admins (username, password_hash, full_name)
+VALUES ('admin@bilpham.com', 'admin123', 'System Admin');
+
+
 -- Table structure for table `appointments`
 --
 
