@@ -1,28 +1,28 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
-    <a class="navbar-brand" href="/Bilpham_outpatient_system/admin/dashboard.php">Admin Panel</a>
+    <a class="navbar-brand" href="/admin/dashboard.php">Admin Panel</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#adminNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="adminNavbar">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link" href="/Bilpham_outpatient_system/admin/dashboard.php">
+          <a class="nav-link" href="/admin/dashboard.php">
             <i class="fas fa-chart-line"></i> Dashboard
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/Bilpham_outpatient_system/admin/users.php">
+          <a class="nav-link" href="/admin/users.php">
             <i class="fas fa-users-cog"></i> Users
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/Bilpham_outpatient_system/admin/reports/reports_dashboard.php">
+          <a class="nav-link" href="/admin/reports/reports_dashboard.php">
             <i class="fas fa-file-alt"></i> Reports
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link btn btn-danger text-white" href="/Bilpham_outpatient_system/admin/logout.php">
+          <a class="nav-link btn btn-danger text-white" href="/admin/logout.php">
             <i class="fas fa-sign-out-alt"></i> Logout
           </a>
         </li>
